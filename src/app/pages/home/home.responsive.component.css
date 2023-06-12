@@ -1,0 +1,12 @@
+@media screen and (max-width:600px) {
+  .container__articles{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .articles__others{
+    margin-top: 20px;
+    width: 550px;
+  }
+}
