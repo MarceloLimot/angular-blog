@@ -6,3 +6,5 @@ Desenvolvido com as Tecnologias:
 * CSS
 * JavaScript
 * Angular
+
+LINK do projeto no GitHub Pages: https://marcelolimot.github.io/angular-blog/
